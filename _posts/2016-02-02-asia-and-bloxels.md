@@ -6,7 +6,7 @@ inLanguage: null
 starred: false
 keywords: []
 description: 'Asia is very excited to use a new app from PixelPress called Bloxels. '
-datePublished: '2016-02-02T14:08:01.022Z'
+datePublished: '2016-02-02T14:08:01.129Z'
 dateModified: '2016-02-02T14:07:57.245Z'
 title: 'Asia and Bloxels '
 author: []

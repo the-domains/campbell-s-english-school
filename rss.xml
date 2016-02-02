@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
-        <title><![CDATA[Campbell's English School]]></title>
-        <description><![CDATA[Campbell's English School]]></description>
+        <title><![CDATA[Campbell's English School ]]></title>
+        <description><![CDATA[Campbell's English School ]]></description>
         <link>https://thegrid.ai/campbell-s-english-school/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Tue, 02 Feb 2016 04:42:36 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 02 Feb 2016 07:45:24 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/campbell-s-english-school/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Movie Making with Minecraft PE in the Classroom]]></title>
@@ -15,7 +15,7 @@
         </item>
         <item>
             <title><![CDATA[Coding Summer ]]></title>
-            <description><![CDATA[<article><h1>Coding Summer </h1><p>Coding Summer </p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/3b048bed8ac168cb619fb192b7a7e8784c4a35e3.jpg"></article>]]></description>
+            <description><![CDATA[<article><h1>Coding Summer </h1><p>Coding Summer </p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/e8386e9e67bf616d8fad14f0200b9910f5b74c41.jpg"></article>]]></description>
             <link>https://thegrid.ai/campbell-s-english-school/504d8fd1-e489-4f56-b13f-dd3a37cce4b7/index.html</link>
             <guid isPermaLink="false">504d8fd1-e489-4f56-b13f-dd3a37cce4b7</guid>
             <pubDate>Tue, 02 Feb 2016 04:41:21 GMT</pubDate>
@@ -26,13 +26,6 @@
             <link>https://thegrid.ai/campbell-s-english-school/adventure-time-game-wizard/index.html</link>
             <guid isPermaLink="false">509b9a34-f931-461d-99bc-c7fd8eea76e4</guid>
             <pubDate>Tue, 02 Feb 2016 04:39:01 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Bloxels]]></title>
-            <description><![CDATA[<article><h1>Bloxels</h1><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/6e98c11c4e26927ebf49bd9ead554e4b124b4d4b.png"></article>]]></description>
-            <link>urn:uuid:d812cdf6-f34f-4f5d-a5ac-a41d631675de</link>
-            <guid isPermaLink="false">d0d95abe-6bf8-48d4-953a-056ae97e6a33</guid>
-            <pubDate>Tue, 02 Feb 2016 04:39:37 GMT</pubDate>
         </item>
     </channel>
 </rss>

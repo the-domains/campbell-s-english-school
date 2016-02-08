@@ -3,11 +3,11 @@ inFeed: true
 hasPage: true
 inNav: false
 inLanguage: null
-starred: true
+starred: false
 keywords: []
 description: ''
-datePublished: '2016-02-02T04:40:17.421Z'
-dateModified: '2016-02-02T04:40:14.720Z'
+datePublished: '2016-02-08T14:12:12.265Z'
+dateModified: '2016-02-08T14:12:09.997Z'
 title: Movie Making with Minecraft PE in the Classroom
 author: []
 sourcePath: _posts/2016-02-02-movie-making-with-minecraft-pe-in-the-classroom.md
@@ -30,7 +30,7 @@ Making movies is a great way for my EFL students to practice their writing and s
 
 We started with the script. With my primary classes we wrote the script together using the iPad app Celtx. Celtx is a fantastic and simple app for writing, screen plays, podcasts, and even TV commercials. With my upper elementary students we used Google Docs to create the script.
 
-Once the scripts were completed we began practicing. It is a challenge to teach expression and emotion to Korean students. To help, I showed them a few videos of the making of Frozen. https://www.youtube.com/watch?v=SET0DeKtHkc
+Once the scripts were completed we began practicing. It is a challenge to teach expression and emotion to Korean students. To help, I showed them a few videos of the making of Frozen. [https://www.youtube.com/watch?v=SET0DeKtHkc][0]
 
 **Storyboarding**
 
@@ -43,9 +43,9 @@ The final step before filming was to create the setting. To save time I imported
 
 With the scripts printed and practiced we began filming. I used Reflector and Screen-Cast-Omatic to record the screen cast of my iPad. I would act as the camera. One tip here would be to turn off the GUI on the iPad to hide the D-Pad and items. It's a little tricky to move around but it gives you a nice clear picture.
 
-https://www.youtube.com/watch?v=S9zv2Idm2r4 (trailer)
+[https://www.youtube.com/watch?v=S9zv2Idm2r4][1] (trailer)
 
-https://www.youtube.com/watch?v=Wi8cEwF88Ho (Full Movie)
+[https://www.youtube.com/watch?v=Wi8cEwF88Ho][2] (Full Movie)
 
 **Experimenting and Having Fun**
 
@@ -73,3 +73,7 @@ X-Mirage is a screen mirroring and recording app for the Mac. I was able to pick
 Creating your own green screen in MCPE is very simple. All you need is some green wool or green emeralds as a background and you are all set. We even experimented with green windows in vehicles to simulate moving. In the photo above we used a blue screen to simulate a large forest.
 
 Overall the experience has been very positive for me and my students. Students learned a lot about how to create a movie and spent a lot of time practicing key English skills. This summer vacation we will be working on coding skills. I look forward to sharing our experiences!
+
+[0]: https://www.youtube.com/watch?v=SET0DeKtHkc
+[1]: https://www.youtube.com/watch?v=S9zv2Idm2r4
+[2]: https://www.youtube.com/watch?v=Wi8cEwF88Ho

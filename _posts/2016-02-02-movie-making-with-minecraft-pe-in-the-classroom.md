@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2016-02-08T14:12:12.265Z'
-dateModified: '2016-02-08T14:12:09.997Z'
+datePublished: '2016-02-09T10:22:59.922Z'
+dateModified: '2016-02-09T01:22:17.235Z'
 title: Movie Making with Minecraft PE in the Classroom
 author: []
 sourcePath: _posts/2016-02-02-movie-making-with-minecraft-pe-in-the-classroom.md
@@ -22,8 +22,6 @@ url: movie-making-with-minecraft-pe-in-the-classroom/index.html
 _type: Article
 
 ---
-![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/e64330ffe758b62bf85c4b44f2500a8e6bdaeb55.png)
-
 Making movies is a great way for my EFL students to practice their writing and speaking. However, as the students reach the upper elementary and middle school grades they shy away from showing their faces on screen. To remedy this problem I started using Minecraft PE (MCPE) instead of live action movies. All of my students, no matter their age, love Minecraft. So when I asked them if they wanted to make a movie using MCPE they were pretty excited.
 
 **Script Writing**

@@ -1,13 +1,13 @@
 ---
-inFeed: true
+inFeed: false
 hasPage: true
-inNav: false
+inNav: true
 inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2016-02-02T04:39:01.543Z'
-dateModified: '2016-02-02T04:38:58.116Z'
+datePublished: '2016-02-13T08:19:44.605Z'
+dateModified: '2016-02-13T08:19:41.310Z'
 title: 'Adventure Time Game Wizard '
 author: []
 sourcePath: _posts/2016-02-02-adventure-time-game-wizard.md
@@ -19,7 +19,7 @@ publisher:
   url: null
   favicon: null
 url: adventure-time-game-wizard/index.html
-_type: Article
+_type: WebPage
 
 ---
 ![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/165a6d6f57d09958f18544143fc89c60937af65b.png)

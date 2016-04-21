@@ -14,7 +14,7 @@ collections:
       path: '/:title/'
 color:
   saturation: 0.8721805
-  brandStrength: 0.5
+  brandStrength: 0
   lightness: 1
   brandColors:
     - '#e0e1dc'
@@ -31,11 +31,11 @@ analytics:
   twitter: null
   google: null
   facebook: null
-favicon: null
 name: "Campbell's English School"
+favicon: null
 opengraph:
   image: null
   type: null
   appId: null
-typography_spectrum: 0.2596
-layout_spectrum: 0
+typography_spectrum: 0.108396
+layout_spectrum: 1

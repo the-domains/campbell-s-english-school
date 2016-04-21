@@ -13,16 +13,16 @@ collections:
     permalink:
       path: '/:title/'
 color:
-  saturation: 0.3125
+  saturation: 0.8721805
   brandStrength: 0.5
-  rhythmicContrast: 0.75
+  lightness: 1
   brandColors:
     - '#e0e1dc'
     - '#b7b6b1'
     - '#6d7e78'
     - '#0e0e0e'
     - '#4fbddf'
-  lightness: 0.5
+  rhythmicContrast: 0.9154136
 cta:
   bucket: null
   version: null
@@ -31,8 +31,8 @@ analytics:
   twitter: null
   google: null
   facebook: null
-name: "Campbell's English School"
 favicon: null
+name: "Campbell's English School"
 opengraph:
   image: null
   type: null

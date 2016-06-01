@@ -1,41 +1,41 @@
-title: "Campbell's English School "
-purpose: []
+typography_spectrum: 0.108396
+opengraph:
+  image: null
+  type: null
+  appId: null
 collections:
   - index:
       path: /
       number: 15
       paginate: true
       navigable: true
+    permalink:
+      path: '/:title/'
     feed:
       path: /rss.xml
       format: rss
       number: 10
-    permalink:
-      path: '/:title/'
+layout_spectrum: 1
+title: "Campbell's English School "
+purpose: []
 color:
   saturation: 0.8721805
   brandStrength: 0
-  lightness: 1
+  rhythmicContrast: 0.9154136
   brandColors:
     - '#e0e1dc'
     - '#b7b6b1'
     - '#6d7e78'
     - '#0e0e0e'
     - '#4fbddf'
-  rhythmicContrast: 0.9154136
+  lightness: 1
 cta:
   bucket: null
   version: null
   domain: null
+favicon: null
 analytics:
   twitter: null
   google: null
   facebook: null
 name: "Campbell's English School"
-favicon: null
-opengraph:
-  image: null
-  type: null
-  appId: null
-typography_spectrum: 0.108396
-layout_spectrum: 1
